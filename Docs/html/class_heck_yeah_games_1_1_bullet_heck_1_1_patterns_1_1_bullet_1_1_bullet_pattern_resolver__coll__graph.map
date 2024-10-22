@@ -1,0 +1,8 @@
+<map id="HeckYeahGames.BulletHeck.Patterns.Bullet.BulletPatternResolver" name="HeckYeahGames.BulletHeck.Patterns.Bullet.BulletPatternResolver">
+<area shape="rect" id="node1" title=" " alt="" coords="551,49,813,90"/>
+<area shape="rect" id="node2" title=" " alt="" coords="227,5,351,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="227,56,351,83"/>
+<area shape="rect" id="node4" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_bullet_1_1_bullet_pattern.html" title="Data container that provides the constraints required to build a bullet pattern." alt="" coords="184,107,395,149"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,89,135,116"/>
+<area shape="rect" id="node6" href="$interface_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_i_pattern.html" title="Interface used by pattern types that will allow handler registration for when the pattern changes in ..." alt="" coords="34,140,106,167"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HeckYeahGames.BulletHeck.Patterns.Shape.IPatternIterator" name="HeckYeahGames.BulletHeck.Patterns.Shape.IPatternIterator">
+<area shape="rect" id="node1" title="Interface for creating pattern iterators." alt="" coords="5,93,227,134"/>
+<area shape="rect" id="node2" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_alternating_pattern_iterator.html" title=" " alt="" coords="283,5,524,61"/>
+<area shape="rect" id="node3" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_bilinear_pattern_iterator.html" title=" " alt="" coords="294,85,513,141"/>
+<area shape="rect" id="node4" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_linear_pattern_iterator.html" title=" " alt="" coords="275,166,532,207"/>
+</map>

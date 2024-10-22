@@ -1,0 +1,8 @@
+<map id="HeckYeahGames.BulletHeck.Patterns.Shape.IShapeImplementation" name="HeckYeahGames.BulletHeck.Patterns.Shape.IShapeImplementation">
+<area shape="rect" id="node1" title="Interface implemented by objects that intend to implement new shape implementations for ShapePatternR..." alt="" coords="5,136,276,177"/>
+<area shape="rect" id="node2" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_arc_implementation.html" title=" " alt="" coords="365,5,613,47"/>
+<area shape="rect" id="node3" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_circle_implementation.html" title=" " alt="" coords="357,71,621,112"/>
+<area shape="rect" id="node4" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_complex_n_sided_implementation.html" title=" " alt="" coords="324,136,655,177"/>
+<area shape="rect" id="node5" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_line_implementation.html" title=" " alt="" coords="362,201,617,243"/>
+<area shape="rect" id="node6" href="$class_heck_yeah_games_1_1_bullet_heck_1_1_patterns_1_1_shape_1_1_n_sided_implementation.html" title=" " alt="" coords="353,267,626,308"/>
+</map>
