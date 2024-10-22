@@ -5,3 +5,6 @@ The system is data driven and procedurally builds shape and bullet patterns base
 
 ## Documentation
 Documentation has been provided in the form of html exported from Doxygen. Look in the Docs/html folder and open index.html to view the documentation. There is plenty of room for improvement, so submit issues for any documentation errors or shortcomings and they will get resolved.
+
+## Releases
+Check the [Releases](https://github.com/chase-cobb/BulletHeck-Unity/releases) page for the unitypackage and documentation.
